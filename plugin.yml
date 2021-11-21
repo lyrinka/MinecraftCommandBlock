@@ -1,0 +1,6 @@
+name: CommandBlock 
+main: weeaxe.plugins.commandblock.Run 
+version: 0.1
+api-version: 1.16
+author: lyrinka
+depend: [ProtocolLib]

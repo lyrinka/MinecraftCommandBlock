@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Minecraft/Eclipse/BuildTools-1.16.3/Spigot/Spigot-API/target/spigot-api-1.16.3-R0.1-SNAPSHOT-shaded.jar" sourcepath="C:/Minecraft/Eclipse/BuildTools-1.16.3/Spigot/Spigot-API/src"/>
+	<classpathentry kind="lib" path="C:/Minecraft/Eclipse/Library/ProtocolLib-4.7.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://ci.dmulloy2.net/job/ProtocolLib/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
